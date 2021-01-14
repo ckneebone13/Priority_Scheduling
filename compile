@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Compile
+gcc main.c file_parser.c 
+gcc prime.c -lm -o prime.o
+ 
+
+#run commands ./a.out < input.txt

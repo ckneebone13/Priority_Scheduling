@@ -1,0 +1,11 @@
+DEMO file shows out put of some possible command combinations.
+Caraline Kneebone & Shane Combs A2 -Priority Scheduler
+-------------------------------------------------------------------------------------------------------------
+Input: 
+./a.out < input.txt
+
+Output:
+Process 0: My priority is 3, my PID is: 1871 I just got started. I am starting with the number 2804289383 to find the next prime number.
+Process 0: My priority is 3, my PID is: 1871 I just completed my task and I am exiting. Highest prime number I found is 2804289383.
+Segmentation fault (core dumped)
+-------------------------------------------------------------------------------------------------------------
